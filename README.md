@@ -1,6 +1,6 @@
 # Gabriel Xavier
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 ## 🙋🏽 Sobre Mim
 Olá! Me chamo Gabriel Xavier, tenho 23 anos e sou apaixonado por tecnologia e conexões humanas.Atualmente, estou cursando, Técnico em Informática no SENAC, Sistemas para Internet (EAD) na Estácio de Sá.
 

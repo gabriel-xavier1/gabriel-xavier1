@@ -1,7 +1,6 @@
-# Gabriel Xavier
+# 👨🏽‍💻 Gabriel Xavier
 
 **`Desenvolvedor Full Stack`**
-## 👋 Sobre Mim
 
 Olá! Me chamo Gabriel Xavier, tenho 23 anos e sou apaixonado por tecnologia.
 Atualmente, curso Técnico em Informática (SENAC) e Sistemas para Internet (EAD) na Estácio de Sá.
@@ -20,7 +19,6 @@ Estou sempre me desafiando com projetos pessoais e estudos que ampliam minha vis
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
 
 ## 🧠 Tecnologias e Ferramentas
 
@@ -41,7 +39,6 @@ Estou sempre me desafiando com projetos pessoais e estudos que ampliam minha vis
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
----
 
 ## 📈 Estatísticas
 
